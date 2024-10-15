@@ -2,6 +2,6 @@
  + Beginner Python/Js Developer
  + Reach Me At "efel.py" On Instagram
 
-- Owned Domains.
+- Owned Domains:
  + efel.site
  + abyss.uno
